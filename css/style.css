@@ -112,7 +112,7 @@ ul,li {
 }
 
 .whole {
-  margin: 20px 0 120px;
+  margin: 90px 0 120px;
 }
 
 .main-block {
@@ -167,7 +167,7 @@ ul,li {
 }
 
 .ranking {
-  margin: 0 0 20px;
+  margin: 0 0 50px;
 }
 
 .archive-item {
@@ -235,7 +235,7 @@ ul,li {
   font-size: 0.75rem;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 760px) {
 
   .pickup {
     display: flex;
@@ -250,17 +250,16 @@ ul,li {
   .whole {
     display: flex;
     justify-content: space-between;
-    margin: 0 auto 140px;
+    margin: 50px auto 140px;
   }
 
   .main {
     width: 65%;
-    margin-top: 45px;
   }
 
   .aside {
     width: 30%;
-    margin-top: 45px;
+    margin-top: 20px;
     margin-right: 20px;
   }
 
